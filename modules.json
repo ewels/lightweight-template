@@ -1,0 +1,16 @@
+{
+    "name": "",
+    "homePage": "",
+    "repos": {
+        "https://github.com/nf-core/modules.git": {
+            "modules": {
+                "nf-core": {
+                    "fastqc": {
+                        "branch": "master",
+                        "git_sha": "3dd73937b084b547f9272bc901e0f120a7913fd8"
+                    }
+                }
+            }
+        }
+    }
+}
